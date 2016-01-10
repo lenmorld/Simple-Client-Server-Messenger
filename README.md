@@ -28,8 +28,12 @@ TODO
 * Include a DISCONNECT button, both for client and server
 * Improve GUI
 
-![](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat.jpg "Logo Title Text 1")
+CLIENT LOGIN
+![client login](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat.jpg "Logo Title Text 1")
 
+CLIENT LOGIN
+![client login](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat2.jpg "Logo Title Text 1")
 
-
+CLIENT LOGIN
+![client login](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat3.jpg "Logo Title Text 1")
 
