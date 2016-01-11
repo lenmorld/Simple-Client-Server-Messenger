@@ -7,7 +7,6 @@ SERVER
 * Data can now be transmitted using streams
 * Uses a thread that updates the GUI when a message is sent
 * Server can now send message to client
-* NOTE that this is a broadcast message, everyone receives 
 
 CLIENT
 * Authenticate users through a Log-in form, connects to a remote MySQL server using JDBC
@@ -17,16 +16,19 @@ CLIENT
 * Uses a thread that updates the GUI when a message is sent
 * User can now send message to server
 
-
 NOTE
-* Messages are broadcast to everyone connected to the chat room
-* Multiple clients can connect to server
 * Client or server can disconnect by typing END
 
 
 TODO
 * Include a DISCONNECT button, both for client and server
 * Improve GUI
+* Multiple clients can connect to server
 
+CLIENT LOGIN - UBUNTU
+* ![client login](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat.jpg "Logo Title Text 1")
+
+CLIENT CHAT - UBUNTU
+* ![client chat](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat2.jpg "Logo Title Text 1")
 
 
