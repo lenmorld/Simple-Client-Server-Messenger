@@ -17,6 +17,7 @@ CLIENT
 * User can now send message to server
 
 NOTE
+* Messages can be send by hitting ENTER
 * Client or server can disconnect by typing END
 
 
