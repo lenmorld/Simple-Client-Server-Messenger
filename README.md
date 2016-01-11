@@ -25,10 +25,18 @@ TODO
 * Improve GUI
 * Multiple clients can connect to server
 
+SERVER - UBUNTU
+* ![client chat](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat4.jpg "Logo Title Text 1")
+
+SERVER - UBUNTU
+* ![client chat](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat5.jpg "Logo Title Text 1")
+
 CLIENT LOGIN - UBUNTU
 * ![client login](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat.jpg "Logo Title Text 1")
 
 CLIENT CHAT - UBUNTU
 * ![client chat](https://github.com/lenmorld/Simple-Client-Server-Messenger/blob/master/screens/client-server-chat2.jpg "Logo Title Text 1")
+
+
 
 
